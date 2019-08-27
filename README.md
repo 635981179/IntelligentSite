@@ -37,4 +37,4 @@ gihub项目地址:https://gitee.com/y_project/RuoYi
 ![6](https://github.com/635981179/IntelligentSite/blob/master/6.png)
 视频直播界面(萤石云接口)
 
-绝大部分CSS样式是我自己手写的，个人对布局，样式有一定的掌握
+绝大部分CSS样式是我自己手写的，个人对布局，样式有一定的掌握。前台到后端，数据库建表，个人完成。
